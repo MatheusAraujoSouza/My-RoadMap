@@ -54,6 +54,9 @@ much of what was developed in .NET is in private research repositories and corpo
 much of what was developed in spark are in private repositories research and corporate projects.
 
 
+# Books I'm currently reading
+
+
 
 
 
