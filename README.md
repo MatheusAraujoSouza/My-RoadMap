@@ -56,6 +56,8 @@ much of what was developed in spark are in private repositories research and cor
 
 # Books I'm currently reading
 
+1- [Fundamentals of Data Engineering: Plan and Build Robust Data Systems](https://www.amazon.com.br/Fundamentals-Data-Engineering-Robust-Systems/dp/1098108302/ref=asc_df_1098108302/?tag=googleshopp00-20&linkCode=df0&hvadid=379735814613&hvpos=&hvnetw=g&hvrand=346498018756713255&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9074232&hvtargid=pla-1643937444435&psc=1)
+
 
 
 
