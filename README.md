@@ -33,7 +33,7 @@ this tree does not fully reflect all the knowledge I have acquired, just a guide
 2- [JavaScript-Evolution-and-RoadMap](https://github.com/MatheusAraujoSouza/JavaScript-Evolution-and-RoadMap)<br>
 3- [Make-your-pizza](https://github.com/MatheusAraujoSouza/Make-your-pizza)<br>
 4- [HTML-CSS-JAVASCRIPT-Trainig](https://github.com/MatheusAraujoSouza/FrontEndTrainig)<br>
-5-[NODEJS-ARCHITECTURE](https://github.com/MatheusAraujoSouza/NODEJS-ARCHITECTURE)
+5-[NODEJS-ARCHITECTURE](https://github.com/MatheusAraujoSouza/NODEJS-ARCHITECTURE)<br>
 6-[Vue 3 / Magic-The-Gathering-Deck](https://github.com/MatheusAraujoSouza/Magic-The-Gathering-Deck)
 
 
