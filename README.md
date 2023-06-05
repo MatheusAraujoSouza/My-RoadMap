@@ -28,13 +28,13 @@ this tree does not fully reflect all the knowledge I have acquired, just a guide
 8- [Machine-learning--Course-Projects](https://github.com/MatheusAraujoSouza/MS960-Machine-learning--Course-Projects)<br>
 9- [Computational-Project-Mixture-of-Ores-with-Quality-Goals](https://github.com/MatheusAraujoSouza/MS728-Computational-Project-Mixture-of-Ores-with-Quality-Goals)<br>
 
-
 # JavaScript and Node js 
 1- [MEVN-Stack ](https://github.com/MatheusAraujoSouza/MEVN-Stack)<br>
 2- [JavaScript-Evolution-and-RoadMap](https://github.com/MatheusAraujoSouza/JavaScript-Evolution-and-RoadMap)<br>
 3- [Make-your-pizza](https://github.com/MatheusAraujoSouza/Make-your-pizza)<br>
 4- [HTML-CSS-JAVASCRIPT-Trainig](https://github.com/MatheusAraujoSouza/FrontEndTrainig)<br>
 5-[NODEJS-ARCHITECTURE](https://github.com/MatheusAraujoSouza/NODEJS-ARCHITECTURE)
+6-[Vue 3 / Magic-The-Gathering-Deck](https://github.com/MatheusAraujoSouza/Magic-The-Gathering-Deck)
 
 
 
@@ -44,6 +44,7 @@ Several other projects were developed in private repositories.
 1- [Object-Oriented-Programming](https://github.com/MatheusAraujoSouza/Object-Oriented-Programming)<br>
 2- [API-Restful-Book-Store](https://github.com/MatheusAraujoSouza/API-Restful-Book-Store)<br>
 3- [Envolvable-web-APIs](https://github.com/MatheusAraujoSouza/Envolvable-web-APIs)<br>
+4- [Magic-The-Gathering-Deck](https://github.com/MatheusAraujoSouza/Magic-The-Gathering-Deck)
 
 much of what was developed in .NET is in private research repositories and corporate projects
 
