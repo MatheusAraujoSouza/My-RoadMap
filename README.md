@@ -1,15 +1,9 @@
 # My-personal-roadmap-for-2023
  A repository that organizes together everything that has ever been produced in all the others as a learning tree
 
-
-This tree was originally created by the :<br>
-[ErdemOzgen/Data-Engineering-Roadmap ](https://github.com/ErdemOzgen/Data-Engineering-Roadmap)<br>
-I ended up making some modifications and adding other images:
-
-
 # Skill tree and study guide for 2023
 
-<p><img src="img/DataEngRoadmap.png"></p>
+<p><img src="img/backend.png"></p>
 
 # Comments
 
@@ -60,12 +54,6 @@ much of what was developed in spark are in private repositories research and cor
 
 # Kubernetes 
 1- [KUBERNETES-ANALYSIS-AND-TASKS](https://github.com/MatheusAraujoSouza/KUBERNETES-ANALYSIS-AND-TASKS) (UNDER construction)<br>
-
-# Books I'm currently reading
-
-1- [Fundamentals of Data Engineering: Plan and Build Robust Data Systems](https://www.amazon.com.br/Fundamentals-Data-Engineering-Robust-Systems/dp/1098108302/ref=asc_df_1098108302/?tag=googleshopp00-20&linkCode=df0&hvadid=379735814613&hvpos=&hvnetw=g&hvrand=346498018756713255&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9074232&hvtargid=pla-1643937444435&psc=1)
-
-2- [Using Docker: Developing and Deploying Software with Containers](https://www.amazon.com.br/Using-Docker-Adrian-Mouat/dp/1491915765/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2MW3F1OGY7HBH&keywords=using+docker+o%27reilly&qid=1680788800&sprefix=using+docker+o%27reill%2Caps%2C171&sr=8-1&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678)
 
 
 
