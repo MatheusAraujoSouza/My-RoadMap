@@ -38,7 +38,7 @@ Several other projects were developed in private repositories.
 1- [Object-Oriented-Programming](https://github.com/MatheusAraujoSouza/Object-Oriented-Programming)<br>
 2- [API-Restful-Book-Store](https://github.com/MatheusAraujoSouza/API-Restful-Book-Store)<br>
 3- [Envolvable-web-APIs](https://github.com/MatheusAraujoSouza/Envolvable-web-APIs)<br>
-4- [Magic-The-Gathering-Deck](https://github.com/MatheusAraujoSouza/Magic-The-Gathering-Deck)
+4- [Magic-The-Gathering-Deck](https://github.com/MatheusAraujoSouza/Magic-The-Gathering-Deck) [DEPRECATED]
 
 much of what was developed in .NET is in private research repositories and corporate projects
 
